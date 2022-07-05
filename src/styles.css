@@ -1,0 +1,96 @@
+body {
+  margin: 15px 15px;
+  color: #4b7be5;
+  background-color: #ffd9c0;
+  font-family: "BIZ UDPGothic", sans-serif;
+}
+
+h1 {
+  width: 35%;
+  background-color: white;
+  border-radius: 10px;
+  padding: 5px 15px;
+  position: sticky;
+  top: 10px;
+  left: 10px;
+  box-shadow: 3px 3px 5px cornsilk;
+}
+
+strong {
+  font-size: 50px;
+  font-family: "Macondo", cursive;
+}
+
+.weatherApp-img {
+  width: 100px;
+}
+
+.main-content {
+  margin: 10px 10px 0px 10px;
+  text-shadow: 1px 1px #8cc0de;
+}
+
+.main-img {
+  width: 200px;
+}
+
+.img-card {
+  width: 80px;
+  height: 80px;
+}
+
+.sm-box {
+  width: 150px;
+  background-color: #f4bfbf;
+}
+
+.main-img,
+.img-card,
+.sm-box {
+  margin: 0 auto;
+  display: block;
+}
+
+.bg-box {
+  height: 524px;
+  width: 1000px;
+  text-align: center;
+  background-color: #faf0d7;
+}
+
+.search-bar {
+  width: 380px;
+  position: sticky;
+  top: 5px;
+  left: 5px;
+}
+
+.current-time {
+  font-size: 36px;
+  position: absolute;
+  left: 670px;
+  top: 140px;
+  color: #8cc0de;
+}
+
+.current-data {
+  font-size: 56px;
+  position: absolute;
+  left: 100px;
+  top: 160px;
+}
+
+.cel,
+.fah {
+  font-size: 36px;
+}
+
+.temp {
+  color: #8cc0de;
+  text-shadow: 1px 1px cadetblue;
+}
+
+.card {
+  border-color: #8cc0de;
+  border-width: 2px;
+}
