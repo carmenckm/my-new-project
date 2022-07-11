@@ -1,7 +1,6 @@
 body {
   margin: 15px 15px;
   color: #4b7be5;
-  background-color: #ffd9c0;
   font-family: "BIZ UDPGothic", sans-serif;
 }
 
@@ -41,7 +40,6 @@ strong {
 
 .sm-box {
   width: 150px;
-  background-color: #f4bfbf;
 }
 
 .main-img,
@@ -55,7 +53,6 @@ strong {
   height: 524px;
   width: 1000px;
   text-align: center;
-  background-color: #faf0d7;
 }
 
 .search-bar {
